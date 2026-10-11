@@ -251,6 +251,14 @@ This tool is for learning and research. It should not replace advice from an agr
 
 ---
 
+
+## 🎓 Academic Context
+
+This project was developed as part of coursework at The Neotia University,
+under the supervision of Dr. Joydeb Mondal, Department of Computer Science and Engineering.
+
+---
+
 ## 🙏 Acknowledgements
 
 - Dataset: [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) on Kaggle, derived from the PlantVillage dataset.
